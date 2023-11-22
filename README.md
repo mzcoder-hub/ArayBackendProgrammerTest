@@ -7,11 +7,10 @@ Create a web article service ready to handle traffic spikes with caching impleme
 # How To Run Project
 
 `
-
 - git clone https://github.com/mzcoder-hub/ArayBackendProgrammerTest.git
 - cd ArayBackendProgrammerTest
-- npm install
-- node src/server.js
+- run `npm install`
+- run `node src/server.js`
   `
 
 # Documentation
